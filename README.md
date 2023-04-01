@@ -1,2 +1,2 @@
-# Wizarding-World
-First project for WYWM
+# HarryPotter
+First project for WYWM HP site
